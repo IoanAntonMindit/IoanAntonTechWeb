@@ -1,0 +1,27 @@
+{
+  "name": "parcari",
+  "version": "1.0.0",
+  "description": "Detalii locuri parcare",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ioanAnton@bitbucket.org/ioanAnton/techweb.git"
+  },
+  "keywords": [
+    "techweb"
+  ],
+  "author": "Ioan Anton",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/ioanAnton/techweb#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fbemitter": "^2.1.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.3"
+  }
+}
